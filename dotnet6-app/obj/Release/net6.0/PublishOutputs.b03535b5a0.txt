@@ -1,0 +1,7 @@
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\dotnet6-app.exe
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\dotnet6-app.dll
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\dotnet6-app.deps.json
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\dotnet6-app.runtimeconfig.json
+D:\Certifications\Azure\Intellipat\Az-204\webapp\dotnet6-app\dotnet6-app\obj\Release\net6.0\PubTmp\Out\dotnet6-app.pdb
